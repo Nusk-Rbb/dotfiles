@@ -1,0 +1,7 @@
+[user]
+	email = nuskrbb1741dn@gmail.com
+	name = Nusk-Rbb
+[core]
+	editor = nvim
+[commit]
+	template = /home/nusk/.commit_template
