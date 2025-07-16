@@ -1,0 +1,4 @@
+[submodule "dot_commit_template"]
+	path = dot_commit_template
+	url = https://gist.github.com/Nusk-Rbb/71c353b04c7d16220db2392087c478b1
+	branch = main
